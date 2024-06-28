@@ -1,0 +1,16 @@
+{
+  "name": "smt-form-validation",
+  "version": "1.0.0",
+  "description": "JS Library for Form Inputs Validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Form",
+    "Inputs",
+    "Validation"
+  ],
+  "author": "Sumeet Gupta",
+  "license": "ISC"
+}
