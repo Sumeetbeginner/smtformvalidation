@@ -1,6 +1,6 @@
 {
   "name": "smt-form-validation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JS Library for Form Inputs Validation",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "Inputs",
     "Validation"
   ],
-  "github" : "https://github.com/Sumeetbeginner/smtformvalidation",
+  "github": "https://github.com/Sumeetbeginner/smtformvalidation",
   "author": "Sumeet Gupta",
   "license": "ISC"
 }
