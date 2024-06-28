@@ -8,7 +8,7 @@ A lightweight JavaScript library for validating form inputs such as names, usern
 Install the library using npm:
 
 ```bash
-npm install form-validation-lib
+npm install smt-form-validation
 ```
 
 ## Usage
@@ -16,7 +16,7 @@ npm install form-validation-lib
 Import the validation functions and use them to validate form inputs. Each function returns an object with a `valid` boolean and an `error` message if the validation fails.
 
 ```javascript
-const { validateName, validateUsername, validatePassword, validateEmail } = require('form-validation-lib');
+const { validateName, validateUsername, validatePassword, validateEmail } = require('smt-form-validation');
 
 // Validate Name
 const nameResult = validateName('John Doe');
